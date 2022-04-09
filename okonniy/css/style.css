@@ -1,0 +1,26 @@
+* {
+  color: #150202;
+}
+
+.breadcrumbs {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 3px;
+}
+
+.breadcrumbs__item {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 19px;
+  letter-spacing: 0em;
+  color: #7e7e7e;
+}
+
+.breadcrumbs__item-main {
+  color: #eb652f;
+}
+@supports (-webkit-appearance:none){
+
+}
